@@ -1,0 +1,27 @@
+{
+    "name": "weiss/think-permission",
+    "description": "0000",
+    "type": "1",
+    "require": {
+        "php": ">=7.2.5",
+        "topthink/framework": "^6.0.0",
+        "topthink/think-orm": "^2.0",
+        "topthink/think-helper": "^3.1"
+    },
+    "require-dev": {
+        "php": ">=7.2.5"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "weiss",
+            "email": "1554783799@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "weiss\\": "src"
+        }
+    }
+}
