@@ -2,7 +2,8 @@
     "name": "weiss/think-permission",
     "description": "我是描述",
     "license": "Apache-2.0",
-    "minimum-stability": "dev",
+    "type": "metapackage",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "weiss",
