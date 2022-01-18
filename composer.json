@@ -1,16 +1,6 @@
 {
     "name": "weiss/think-permission",
-    "description": "0000",
-    "type": "1",
-    "require": {
-        "php": ">=7.2.5",
-        "topthink/framework": "^6.0.0",
-        "topthink/think-orm": "^2.0",
-        "topthink/think-helper": "^3.1"
-    },
-    "require-dev": {
-        "php": ">=7.2.5"
-    },
+    "description": "我是描述",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -18,7 +8,12 @@
             "email": "1554783799@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2.5",
+        "topthink/framework": "^6.0.0",
+        "topthink/think-orm": "^2.0",
+        "topthink/think-helper": "^3.1"
+    },
     "autoload": {
         "psr-4": {
             "weiss\\": "src"
